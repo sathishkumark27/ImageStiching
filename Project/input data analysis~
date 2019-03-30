@@ -1,0 +1,13 @@
+		SURF		ORB
+data1   ok			ok
+data1   ok			ok
+data3   ok			ok
+data4   ok			Nok
+data5   ok			ok   --> not good ouput, i.e more black patch
+
+below are more than 2 images
+
+data6   ok			Nok
+data7   ok			ok
+data8   Nok			Nok
+	
